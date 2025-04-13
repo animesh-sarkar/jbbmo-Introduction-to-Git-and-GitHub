@@ -1,3 +1,6 @@
+This is an assignment Project to complete IBM "Introduction-to-Git-and-GitHub" Certification & Badge
+
+
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
